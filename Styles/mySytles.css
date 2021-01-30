@@ -33,7 +33,7 @@ body {
 .quotes {
   display: table-cell;
   vertical-align: middle;
-  padding: 25px;
+  padding: 30px;
 }
 
 .quoteFadeOut {
