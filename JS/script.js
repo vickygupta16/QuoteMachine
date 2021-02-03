@@ -50,6 +50,7 @@ function QM_Code() {
     author[0].classList.add("quoteFadeOut");
   }, 2000);
   QM();
+  document.addEventListener('contextmenu', event => event.preventDefault());
 }
 function QM() {
   setTimeout(() => {
